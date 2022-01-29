@@ -1,5 +1,5 @@
 package firnas;
-
+//Congragulations...good example...
 import java.util.Scanner;
 
 public class Calculator {
