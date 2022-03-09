@@ -30,7 +30,7 @@ public class ClassDemo4 {
 		
 	}
 	
-	void met(int... i) {
+	void met(int... i) {//varargs
 		
 	}
 //DYNAMIC POLYMORPHISM - RUNTIME POLYMORPHISM
