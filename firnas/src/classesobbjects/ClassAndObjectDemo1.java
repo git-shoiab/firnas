@@ -10,8 +10,6 @@ public class ClassAndObjectDemo1 {
 		System.out.println("called....");
 	}
 }
-
-
 class HousePlan{
 	
 }
