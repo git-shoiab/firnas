@@ -1,0 +1,9 @@
+DEBUG   2022-04-23 11:15:08,526 [main] com.qp.sonar_demo.AssertDemo  - this is a debug log message
+INFO    2022-04-23 11:15:08,534 [main] com.qp.sonar_demo.AssertDemo  - this is a information log message
+WARN    2022-04-23 11:15:08,534 [main] com.qp.sonar_demo.AssertDemo  - this is a warning log message
+DEBUG   2022-04-23 11:15:26,484 [main] com.qp.sonar_demo.AssertDemo  - this is a debug log message
+INFO    2022-04-23 11:15:26,487 [main] com.qp.sonar_demo.AssertDemo  - this is a information log message
+WARN    2022-04-23 11:15:26,487 [main] com.qp.sonar_demo.AssertDemo  - this is a warning log message
+DEBUG   2022-04-23 12:09:40,039 [main] com.qp.sonar_demo.AssertDemo  - this is a debug log message
+INFO    2022-04-23 12:09:40,043 [main] com.qp.sonar_demo.AssertDemo  - this is a information log message
+WARN    2022-04-23 12:09:40,043 [main] com.qp.sonar_demo.AssertDemo  - this is a warning log message
