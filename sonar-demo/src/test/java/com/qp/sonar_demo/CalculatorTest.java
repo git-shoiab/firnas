@@ -1,5 +1,6 @@
 package com.qp.sonar_demo;
 //https://www.guru99.com/junit-tutorial.html
+//https://www.sonarqube.org/downloads/
 //https://fluvid.com/videos/detail/BMm-ri-1kLuPG21LO#.YmOPVV9Rebk.link
 import static org.junit.Assert.*;
 

@@ -9,10 +9,7 @@ public class AssertDemo {
 
 	public static void main(String[] args) {
 
-		int i = 30;
-
-
-		
+		int i = 30;		
 		if(i>=20) { 
 
 		String log4jConfigFile = System.getProperty("user.dir") + File.separator + "log4j.properties";
